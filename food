@@ -1,0 +1,481 @@
+{
+  "items": [
+    {
+      "grayImageUrl": "https://i.ibb.co/Jj2MPRk/f1-grey.png",
+      "colorImageUrl": "https://i.ibb.co/NsD7hVJ/f1.png",
+      "itemName": "server_1",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/gmyTbsK/f2-grey.png",
+      "colorImageUrl": "https://i.ibb.co/JQkW1SL/f2.png",
+      "itemName": "server_2"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/ZgVkfZp/f3-grey.png",
+      "colorImageUrl": "https://i.ibb.co/1Tgtw0q/f3.png",
+      "itemName": "server_3",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/gRC86rz/f4-grey.png",
+      "colorImageUrl": "https://i.ibb.co/MNPXHkL/f4.png",
+      "itemName": "server_4"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/1v85SCK/f5-grey.png",
+      "colorImageUrl": "https://i.ibb.co/16HmsfD/f5.png",
+      "itemName": "server_5"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/j6cR4LV/f6-grey.png",
+      "colorImageUrl": "https://i.ibb.co/NVSQfDP/f6.png",
+      "itemName": "server_6",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/pJwPj7X/f7-grey.png",
+      "colorImageUrl": "https://i.ibb.co/1d1BZDN/f7.png",
+      "itemName": "server_7",
+      "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/FxsKt4R/f8-grey.png",
+      "colorImageUrl": "https://i.ibb.co/pdVK6KS/f8.png",
+      "itemName": "server_8",
+      "videoToUnlock": true
+    },
+    {
+      "itemName": "server_9",
+      "colorImageUrl": "https://i.ibb.co/vcBvsdV/f9.png",
+      "grayImageUrl": "https://i.ibb.co/vcNgn2W/f9-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_10",
+      "colorImageUrl": "https://i.ibb.co/6gbT7Rd/f10.png",
+      "grayImageUrl": "https://i.ibb.co/5vTs0nh/f10-grey.png"
+    },
+    {
+      "itemName": "server_11",
+      "colorImageUrl": "https://i.ibb.co/2kGCcYX/f11.png",
+      "grayImageUrl": "https://i.ibb.co/Np5gGq5/f11-grey.png"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/2KWLDGH/f12-grey.png",
+      "colorImageUrl": "https://i.ibb.co/2v9ZWCz/f12.png",
+      "itemName": "server_12",
+      "videoToUnlock": true
+    },
+    {
+      "itemName": "server_13",
+      "colorImageUrl": "https://i.ibb.co/gw5gLBz/f13.png",
+      "grayImageUrl": "https://i.ibb.co/rZDYDm7/f13-grey.png"
+    },
+    {
+      "itemName": "server_14",
+      "colorImageUrl": "https://i.ibb.co/kGjNdhh/f14.png",
+      "grayImageUrl": "https://i.ibb.co/HxJF5FL/f14-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_15",
+      "colorImageUrl": "https://i.ibb.co/5RyZM5m/f15.png",
+      "grayImageUrl": "https://i.ibb.co/djtTMCY/f15-grey.png"
+    },
+    {
+      "itemName": "server_16",
+      "colorImageUrl": "https://i.ibb.co/41NmxDm/f16.png",
+      "grayImageUrl": "https://i.ibb.co/PQ9FL9z/f16-grey.png"
+    },
+    {
+      "itemName": "server_17",
+      "colorImageUrl": "https://i.ibb.co/jGS3SCQ/f17.png",
+      "grayImageUrl": "https://i.ibb.co/KNz1Cyz/f17-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_18",
+      "colorImageUrl": "https://i.ibb.co/VCp0mKf/f18.png",
+      "grayImageUrl": "https://i.ibb.co/xgsx2dJ/f18-grey.png"
+    },
+    {
+      "itemName": "server_19",
+      "colorImageUrl": "https://i.ibb.co/8bXVpn0/f19.png",
+      "grayImageUrl": "https://i.ibb.co/RzZKP1H/f19-grey.png"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/1LcCFVm/f20-grey.png",
+      "colorImageUrl": "https://i.ibb.co/cXQMfPS/f20.png",
+      "itemName": "server_20"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_21",
+      "colorImageUrl": "https://i.ibb.co/W5QGH0c/f21.png",
+      "grayImageUrl": "https://i.ibb.co/ynd23Ym/f21-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_22",
+      "colorImageUrl": "https://i.ibb.co/fHF7kwm/f22.png",
+      "grayImageUrl": "https://i.ibb.co/CvRbCPK/f22-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_23",
+      "colorImageUrl": "https://i.ibb.co/rHMxLNF/f23.png",
+      "grayImageUrl": "https://i.ibb.co/zsffTT2/f23-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_24",
+      "colorImageUrl": "https://i.ibb.co/vdpdCRz/f24.png",
+      "grayImageUrl": "https://i.ibb.co/Y3WL6vG/f24-grey.png"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/t88FBLx/f25-grey.png",
+      "colorImageUrl": "https://i.ibb.co/NL66qwV/f25.png",
+      "itemName": "server_25"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_26",
+      "colorImageUrl": "https://i.ibb.co/tX9SXS2/f26.png",
+      "grayImageUrl": "https://i.ibb.co/fCdtXFZ/f26-grey.png"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/cynqshf/f27-grey.png",
+      "colorImageUrl": "https://i.ibb.co/Mgj8b7h/f27.png",
+      "itemName": "server_27"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/dMs51cX/f28-grey.png",
+      "colorImageUrl": "https://i.ibb.co/BBVKV2h/f28.png",
+      "itemName": "server_28"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_29",
+      "colorImageUrl": "https://i.ibb.co/MPy7xmH/f29.png",
+      "grayImageUrl": "https://i.ibb.co/rbnRPPy/f29-grey.png"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/TYPhV7R/f30-grey.png",
+      "colorImageUrl": "https://i.ibb.co/mSF4Qh1/f30.png",
+      "itemName": "server_30"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/H4Z0grH/f31-grey.png",
+      "colorImageUrl": "https://i.ibb.co/dD9KN7z/f31.png",
+      "itemName": "server_31"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/KxR3VQm/f32-grey.png",
+      "colorImageUrl": "https://i.ibb.co/0yyRkVJ/f32.png",
+      "itemName": "server_32"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_33",
+      "colorImageUrl": "https://i.ibb.co/JCnZNb1/f33.png",
+      "grayImageUrl": "https://i.ibb.co/6Hqj4WY/f33-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_34",
+      "colorImageUrl": "https://i.ibb.co/ccgxVTS/f34.png",
+      "grayImageUrl": "https://i.ibb.co/557tsy1/f34-grey.png"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/yXL0X0X/f35-grey.png",
+      "colorImageUrl": "https://i.ibb.co/f45ZXtV/f35.png",
+      "itemName": "server_35"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/0C5y4gS/f36-grey.png",
+      "colorImageUrl": "https://i.ibb.co/MRfQ9y5/f36.png",
+      "itemName": "server_36"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_37",
+      "colorImageUrl": "https://i.ibb.co/wQ2NsFh/f37.png",
+      "grayImageUrl": "https://i.ibb.co/bPDcMjy/f37-grey.png"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/QbsVzhb/f38-grey.png",
+      "colorImageUrl": "https://i.ibb.co/30T5h2h/f38.png",
+      "itemName": "server_38"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_39",
+      "colorImageUrl": "https://i.ibb.co/wc0Xkqw/f39.png",
+      "grayImageUrl": "https://i.ibb.co/zNXRMjX/f39-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_40",
+      "colorImageUrl": "https://i.ibb.co/TBxCSC7/f40.png",
+      "grayImageUrl": "https://i.ibb.co/2hTrvtD/f40-grey.png"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/k6g5Cgm/f41-grey.png",
+      "colorImageUrl": "https://i.ibb.co/0jLQfp0/f41.png",
+      "itemName": "server_41"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/c6ddZZz/f42-grey.png",
+      "colorImageUrl": "https://i.ibb.co/rFHQHf7/f42.png",
+      "itemName": "server_42"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_43",
+      "colorImageUrl": "https://i.ibb.co/5xMdFHB/f43.png",
+      "grayImageUrl": "https://i.ibb.co/ygRkn8L/f43-grey.png"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/M878qDd/f44-grey.png",
+      "colorImageUrl": "https://i.ibb.co/YkFV00p/f44.png",
+      "itemName": "server_44"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/74tL6vH/f45-grey.png",
+      "colorImageUrl": "https://i.ibb.co/TbssVTH/f45.png",
+      "itemName": "server_45"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_46",
+      "colorImageUrl": "https://i.ibb.co/VxbGRTb/f46.png",
+      "grayImageUrl": "https://i.ibb.co/HHs4nM7/f46-grey.png"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/wYfrg0T/f47-grey.png",
+      "colorImageUrl": "https://i.ibb.co/cXVSfyn/f47.png",
+      "itemName": "server_47"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_48",
+      "colorImageUrl": "https://i.ibb.co/DGB9BYH/f48.png",
+      "grayImageUrl": "https://i.ibb.co/2KrVqGc/f48-grey.png"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/C8PVtY3/f49-grey.png",
+      "colorImageUrl": "https://i.ibb.co/k0tsj29/f49.png",
+      "itemName": "server_49"
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/hdFtV07/f50-grey.png",
+      "colorImageUrl": "https://i.ibb.co/L13G8NF/f50.png",
+      "itemName": "server_50"
+    },
+    {
+      "itemName": "server_51",
+      "colorImageUrl": "https://i.ibb.co/RDQLbBn/f51.png",
+      "grayImageUrl": "https://i.ibb.co/tb8VmgL/f51-grey.png"
+    },
+    {
+      "itemName": "server_52",
+      "colorImageUrl": "https://i.ibb.co/KFR99gt/f52.png",
+      "grayImageUrl": "https://i.ibb.co/gFJ4B8V/f52-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_53",
+      "colorImageUrl": "https://i.ibb.co/x8cvMPQ/f53.png",
+      "grayImageUrl": "https://i.ibb.co/Kb84wQg/f53-grey.png"
+    },
+    {
+      "itemName": "server_54",
+      "colorImageUrl": "https://i.ibb.co/vP7vJPH/f54.png",
+      "grayImageUrl": "https://i.ibb.co/JRTN6Dc/f54-grey.png"
+    },
+    {
+      "itemName": "server_55",
+      "colorImageUrl": "https://i.ibb.co/Mf8mM47/f55.png",
+      "grayImageUrl": "https://i.ibb.co/6mRjWGX/f55-grey.png"
+    },
+    {
+      "itemName": "server_56",
+      "colorImageUrl": "https://i.ibb.co/t4ksw3V/f56.png",
+      "grayImageUrl": "https://i.ibb.co/GWV38MV/f56-grey.png"
+    },
+    {
+      "itemName": "server_57",
+      "colorImageUrl": "https://i.ibb.co/DM5k4Rg/f57.png",
+      "grayImageUrl": "https://i.ibb.co/N2C44JN/f57-grey.png"
+    },
+    {
+      "itemName": "server_58",
+      "colorImageUrl": "https://i.ibb.co/Tkqw6tN/f58.png",
+      "grayImageUrl": "https://i.ibb.co/j51LWvq/f58-grey.png"
+    },
+    {
+      "itemName": "server_59",
+      "colorImageUrl": "https://i.ibb.co/Cs7Wt6w/f59.png",
+      "grayImageUrl": "https://i.ibb.co/6rZZQb7/f59-grey.png"
+    },
+    {
+      "itemName": "server_60",
+      "colorImageUrl": "https://i.ibb.co/QCFsvfh/f60.png",
+      "grayImageUrl": "https://i.ibb.co/smT7vFY/f60-grey.png"
+    },
+    {
+      "itemName": "server_61",
+      "colorImageUrl": "https://i.ibb.co/0cFZ0kX/f61.png",
+      "grayImageUrl": "https://i.ibb.co/PmX3fhP/f61-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_62",
+      "colorImageUrl": "https://i.ibb.co/NtZpBZb/f62.png",
+      "grayImageUrl": "https://i.ibb.co/FhfQJCC/f62-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_63",
+      "colorImageUrl": "https://i.ibb.co/1MWMdfy/f63.png",
+      "grayImageUrl": "https://i.ibb.co/92BnGvK/f63-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_64",
+      "colorImageUrl": "https://i.ibb.co/djQ8Bx5/f64.png",
+      "grayImageUrl": "https://i.ibb.co/Wn3j47T/f64-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_65",
+      "colorImageUrl": "https://i.ibb.co/f1CRVCp/f65.png",
+      "grayImageUrl": "https://i.ibb.co/QJztYLs/f65-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_66",
+      "colorImageUrl": "https://i.ibb.co/440QRX3/f66.png",
+      "grayImageUrl": "https://i.ibb.co/FV1qrKZ/f66-grey.png"
+    },
+    {
+      "itemName": "server_67",
+      "colorImageUrl": "https://i.ibb.co/8svVjyY/f67.png",
+      "grayImageUrl": "https://i.ibb.co/cJf4kXt/f67-grey.png"
+    },
+    {
+      "itemName": "server_68",
+      "colorImageUrl": "https://i.ibb.co/8PGNjvf/f68.png",
+      "grayImageUrl": "https://i.ibb.co/KGMZkgB/f68-grey.png"
+    },
+    {
+      "itemName": "server_69",
+      "colorImageUrl": "https://i.ibb.co/sRycyjN/f69.png",
+      "grayImageUrl": "https://i.ibb.co/9TdMQRm/f69-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_70",
+      "colorImageUrl": "https://i.ibb.co/FgTV4Fx/f70.png",
+      "grayImageUrl": "https://i.ibb.co/p0QkdtP/f70-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_71",
+      "colorImageUrl": "https://i.ibb.co/gWckSdm/f71.png",
+      "grayImageUrl": "https://i.ibb.co/NZKKzRg/f71-grey.png"
+    },
+    {
+      "itemName": "server_72",
+      "colorImageUrl": "https://i.ibb.co/7XSq3yX/f72.png",
+      "grayImageUrl": "https://i.ibb.co/8Kf7pT0/f72-grey.png"
+    },
+    {
+      "itemName": "server_73",
+      "colorImageUrl": "https://i.ibb.co/72ps20r/f73.png",
+      "grayImageUrl": "https://i.ibb.co/WytBgn4/f73-grey.png"
+    },
+    {
+      "itemName": "server_74",
+      "colorImageUrl": "https://i.ibb.co/rcRRnLT/f74.png",
+      "grayImageUrl": "https://i.ibb.co/bbCXFgS/f74-grey.png"
+    },
+    {
+      "itemName": "server_75",
+      "colorImageUrl": "https://i.ibb.co/XYWXkcf/f75.png",
+      "grayImageUrl": "https://i.ibb.co/fds9ctd/f75-grey.png"
+    },
+    {
+      "itemName": "server_76",
+      "colorImageUrl": "https://i.ibb.co/7XpFPmp/f76.png",
+      "grayImageUrl": "https://i.ibb.co/8BFwdR5/f76-grey.png"
+    },
+    {
+      "itemName": "server_77",
+      "colorImageUrl": "https://i.ibb.co/1Tv5yHj/f77.png",
+      "grayImageUrl": "https://i.ibb.co/tDFB0QJ/f77-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_78",
+      "colorImageUrl": "https://i.ibb.co/3FB6Gwx/f78.png",
+      "grayImageUrl": "https://i.ibb.co/hspBY2b/f78-grey.png"
+    },
+    {
+      "itemName": "server_79",
+      "colorImageUrl": "https://i.ibb.co/pJRgTDd/f79.png",
+      "grayImageUrl": "https://i.ibb.co/3WjvgC8/f79-grey.png"
+    },
+    {
+      "itemName": "server_80",
+      "colorImageUrl": "https://i.ibb.co/JvxYRPy/f80.png",
+      "grayImageUrl": "https://i.ibb.co/JCGHSrZ/f80-grey.png"
+    },
+    {
+      "itemName": "server_81",
+      "colorImageUrl": "https://i.ibb.co/LztZ0nP/f81.png",
+      "grayImageUrl": "https://i.ibb.co/4SjbL1v/f81-grey.png"
+    },
+    {
+      "itemName": "server_82",
+      "colorImageUrl": "https://i.ibb.co/N2w9bB0/f82.png",
+      "grayImageUrl": "https://i.ibb.co/HYMKSVR/f82-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_83",
+      "colorImageUrl": "https://i.ibb.co/mqN1rkg/f83.png",
+      "grayImageUrl": "https://i.ibb.co/xSJBxSD/f83-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_84",
+      "colorImageUrl": "https://i.ibb.co/3mjFNCz/f84.png",
+      "grayImageUrl": "https://i.ibb.co/p45C1Gc/f84-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_85",
+      "colorImageUrl": "https://i.ibb.co/92d7rw3/f85.png",
+      "grayImageUrl": "https://i.ibb.co/0296HPR/f85-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_86",
+      "colorImageUrl": "https://i.ibb.co/grbg7gx/f86.png",
+      "grayImageUrl": "https://i.ibb.co/5jMT77M/f86-grey.png"
+    },
+    {
+      "videoToUnlock": true,
+      "itemName": "server_87",
+      "colorImageUrl": "https://i.ibb.co/V2gmgxq/f87.png",
+      "grayImageUrl": "https://i.ibb.co/4VH8NwC/f87-grey.png"
+    },
+    {
+      "itemName": "server_88",
+      "colorImageUrl": "https://i.ibb.co/qpYcnvG/f88.png",
+      "grayImageUrl": "https://i.ibb.co/tKMqfpg/f88-grey.png"
+    }
+  ]
+}
