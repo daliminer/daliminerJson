@@ -473,6 +473,7 @@
       "grayImageUrl": "https://i.ibb.co/tKMqfpg/f88-grey.png"
     },
     {
+      "videoToUnlock": true,
       "itemName": "server_89",
       "colorImageUrl": "https://i.ibb.co/brWV5ZM/f89.png",
       "grayImageUrl": "https://i.ibb.co/kXjv8TP/f89-grey.png"
@@ -498,6 +499,7 @@
       "grayImageUrl": "https://i.ibb.co/SQK6KPY/f93-grey.png"
     },
     {
+      "videoToUnlock": true,
       "itemName": "server_94",
       "colorImageUrl": "https://i.ibb.co/hLQpLQk/f94.png",
       "grayImageUrl": "https://i.ibb.co/3TtK229/f94-grey.png"
@@ -528,6 +530,7 @@
       "grayImageUrl": "https://i.ibb.co/P9jW1Sp/f99-grey.png"
     },
     {
+      "videoToUnlock": true,
       "itemName": "server_100",
       "colorImageUrl": "https://i.ibb.co/J3K0JmR/f100.png",
       "grayImageUrl": "https://i.ibb.co/b3fzThd/f100-grey.png"
